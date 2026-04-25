@@ -1,0 +1,8 @@
+﻿# Build
+**/bin/
+**/obj/
+**/.vs/
+
+# Secrets (IMPORTANT)
+**/appsettings.Development.json
+*.user
